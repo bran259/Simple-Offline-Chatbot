@@ -1,0 +1,12 @@
+# Simple Offline Chatbot
+
+Small keyword-based chatbot that responds with fixed messages and logs each interaction with a timestamp.
+
+## Requirements
+- Python 3.8 (see [Pipfile](Pipfile))
+
+## Usage
+Run the chatbot in the integrated terminal or system shell:
+
+```sh
+python [chat.py](http://_vscodecontentref_/0)
